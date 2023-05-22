@@ -1,0 +1,22 @@
+.titulo{
+    background-color: #C4C4C4;
+    color: #005677;
+}
+
+header{
+    text-align: center;
+}
+
+span{
+    font-weight: bold;
+}
+
+.lista-fechas{
+    list-style: none;
+}
+
+.footer{
+    background-color: #005677;
+    color: #FFFFFF;
+    text-align: center;
+}
